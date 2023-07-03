@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def calculate_loan_schedule(loan_amount, annual_interest_rate, loan_term_years):
     monthly_interest_rate = annual_interest_rate / (12 * 100)
     total_months = loan_term_years * 12
