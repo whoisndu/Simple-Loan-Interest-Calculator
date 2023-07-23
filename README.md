@@ -1,4 +1,4 @@
-# simple-loan-interest-calculator
+# Simple-Loan-Interest-Calculator
 **Loan Repayment Schedule Calculator**
 This Python script calculates a loan repayment schedule based on the provided loan amount, annual interest rate, and loan term in years. It also calculates the total amount paid, the total interest paid, and the real interest rate.
 
